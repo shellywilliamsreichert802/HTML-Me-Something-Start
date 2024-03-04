@@ -1,1 +1,20 @@
 /* Write your CSS here! */
+/* styles.css */
+/* Element selector for <body> */
+body {
+    margin: 8px;
+    display: block;
+}
+
+/* ID selector for #mainHeading */
+#mainHeading {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+}
+
+/* Class selector for .funParagraph */
+.funParagraph {
+    font-style: italic;
+    color: #777;
+}
