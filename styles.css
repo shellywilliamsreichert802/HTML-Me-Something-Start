@@ -9,12 +9,12 @@ body {
 /* ID selector for #mainHeading */
 #mainHeading {
     font-size: 24px;
-    color: #333;
+    color: red;
     text-align: center;
 }
 
 /* Class selector for .funParagraph */
 .funParagraph {
     font-style: italic;
-    color: #777;
+    color: green;
 }
